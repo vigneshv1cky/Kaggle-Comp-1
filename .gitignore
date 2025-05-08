@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+*.driveupload
+*.drivedownload
+.DS_Store
+*.csv
